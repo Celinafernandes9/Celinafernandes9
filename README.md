@@ -1,4 +1,4 @@
-<img src="https://www.figma.com/file/reNedTp1BRRtbL9mY4BIPR/Celinafernandes?type=design&node-id=0%3A1&mode=dev&t=8fcbcn1Q49YID0BX-1" alt="celina fernades-frontend developer banner">
+<img src="C:\Users\ferna\AppData\Local\Temp\2963258b-f482-47e7-bac2-0533335c751d_Celinafernandes (1).zip.51d\Celinafernandes.png" alt="celina fernades-frontend developer banner">
 ### Hi there 👋, I'm Celina Fernandes
 
 - 🔭 I’m currently working on my skills

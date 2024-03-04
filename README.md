@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<img src="Celinafernandes.png" alt="celina fernandes-frontend developer banner" text-align="center">
-</div>
+
+<img src="Celinafernandes.png" alt="celina fernandes-frontend developer banner" align="center">
+
 
  <h1 align="center">Hi 👋, I'm Celina Fernandes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

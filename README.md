@@ -1,4 +1,4 @@
-<img src="Celinafernandes.png" alt="celina fernades-frontend developer banner">
+<img src="Celinafernandes.png" alt="celina fernades-frontend developer banner" style="center">
 
   <h1 align="center">Hi 👋, I'm Celina Fernandes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

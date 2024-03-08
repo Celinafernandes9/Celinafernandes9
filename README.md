@@ -10,8 +10,8 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">🌱I have completed Diploma in Web Page Designing & Development Program (DWDP)<br><br>- 🔭I’m currently working on my skills<br><br>- 📫 How to reach me celina.922.fernz@gmail.com<br><br>-📄 Know about my experiences [https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link](https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link)
--📄 Know about my Certificates: [https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link](https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link)<br>
+<p align="left">🌱I have completed Diploma in Web Page Designing & Development Program (DWDP)<br><br>- 🔭I’m currently working on my skills<br><br>- 📫 How to reach me celina.922.fernz@gmail.com<br><br>-📄 Know about my experiences [https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link](https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link)<br>
+-📄 Know about my Certificates: [https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link](https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link)<br><br>
  [https://drive.google.com/file/d/17LyU3hXdd9XLrCcdcdMt3ITHfiLA3Ggd/view?usp=drive_link](https://drive.google.com/file/d/17LyU3hXdd9XLrCcdcdMt3ITHfiLA3Ggd/view?usp=drive_link)
 </p>
 

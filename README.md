@@ -4,11 +4,9 @@
 
  <h1 align="center">Hi 👋, I'm Celina Fernandes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-###
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">🌱I have completed Diploma in Web Page Designing & Development Program (DWDP)<br><br>- 🔭I’m currently working on my skills<br><br>- 📫 How to reach me celina.922.fernz@gmail.com<br><br>-📄 Know about my experiences [https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link](https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link)</p>
 
@@ -38,11 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Connect with me:</h3>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/celina-ferns/" target="_blank">

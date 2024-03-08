@@ -5,10 +5,15 @@
  <h1 align="center">Hi 👋, I'm Celina Fernandes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=celinafernandes9&label=Profile%20views&color=0e75b6&style=flat" alt="celinafernandes9" /> </p>
+
 <h2 align="left">About me</h2>
 
 
-<p align="left">🌱I have completed Diploma in Web Page Designing & Development Program (DWDP)<br><br>- 🔭I’m currently working on my skills<br><br>- 📫 How to reach me celina.922.fernz@gmail.com<br><br>-📄 Know about my experiences [https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link](https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link)</p>
+<p align="left">🌱I have completed Diploma in Web Page Designing & Development Program (DWDP)<br><br>- 🔭I’m currently working on my skills<br><br>- 📫 How to reach me celina.922.fernz@gmail.com<br><br>-📄 Know about my experiences [https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link](https://drive.google.com/file/d/17-pMan2RCyfg3bPgzMiB6lhwGeQCZI2R/view?usp=drive_link)
+-📄 Know about my Certificates: [https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link](https://drive.google.com/file/d/1AuAJr9MhX8JxUkQnZcQmUBkQgTlab9ps/view?usp=drive_link)<br>
+ [https://drive.google.com/file/d/17LyU3hXdd9XLrCcdcdMt3ITHfiLA3Ggd/view?usp=drive_link](https://drive.google.com/file/d/17LyU3hXdd9XLrCcdcdMt3ITHfiLA3Ggd/view?usp=drive_link)
+</p>
 
 ###
 

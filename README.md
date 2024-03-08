@@ -2,12 +2,8 @@
 <img src="Celinafernandes.png" alt="celina fernandes-frontend developer banner" align="center">
 
 
- <h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Celina Fernandes and I'm a Frontend Developer from India</p>
-
+ <h1 align="center">Hi 👋, I'm Celina Fernandes</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 ###
 
 <h2 align="left">About me</h2>
